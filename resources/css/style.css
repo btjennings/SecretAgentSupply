@@ -14,7 +14,7 @@ html {
     display: none;
   }
   .mobile-nav {
-    display: block;
+    display: flex;
     text-align: center;
   }
   .product {
@@ -112,7 +112,7 @@ h1 {
 nav {
   background-color: firebrick;
   display: block;
-  width: 100%;
+
 }
 
 nav ul {
