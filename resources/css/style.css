@@ -14,7 +14,7 @@ html {
     display: none;
   }
 
-  .menu {
+  .mobile {
     display: flex;
     text-align: center;
   }
@@ -127,7 +127,7 @@ nav .menu-items {
   margin: 0 auto;
 }
 
-.menu {
+.mobile {
   display: none;
 }
 
